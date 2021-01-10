@@ -73,10 +73,10 @@ void solve(void){
 //main function-----------------------------------
 int main(){
     fastio;
-    #ifndef ONLINE_JUDGE
+   /* #ifndef ONLINE_JUDGE
         freopen("input.txt","r",stdin);
         freopen("output.txt","w",stdout);
-    #endif
+    #endif */
     ll test=1;
     cin>>test;
     while(test--){
